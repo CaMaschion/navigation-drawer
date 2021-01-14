@@ -22,7 +22,7 @@
             android:title="@string/menu_contato" />
     </group>
 
-    <item android:title="Comunição">
+    <item android:title="Comunicação">
         <menu>
             <item
                 android:id="@+id/nav_share"
